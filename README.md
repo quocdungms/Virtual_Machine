@@ -1,6 +1,5 @@
-# Virtual_Machine
-Ho Chi Minh City University of Technology
+# Simple Virtual_Machine Implement
 
-Data Structures and Algorithms
-
-Assignment 1
+Ho Chi Minh City University of Technology 
+Data Structures and Algorithms 
+Assignment 1 
